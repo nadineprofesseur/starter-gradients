@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Labo Gradient (5% - Remise 4 septembre)
+## 🎯 Labo Gradient (5% - Remise 3 septembre)
 
 ### ⛰️ Skieur et montagne
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🐦 Labo Boid (5% - Remise 9 septembre)
+## 🐦 Labo Boid (5% - Remise 10 septembre)
 
 ### 🦠 Partie Prépa Flock
 Sources : https://docs.google.com/presentation/d/1ipU-tH2uaze7Qrng_xWZh42o5nZNnJee79PZyeWuRMQ  
@@ -37,7 +37,7 @@ Sources : https://github.com/search?q=flocking-simulation+language%3AJavaScript&
 
 ---
 
-## 🌅 Labo Voilière Unity (Remise 11 septembre)
+## 🌅 Labo Voilière Unity (Facultatif - Ne compte pas)
 
 ### 💻 Codes
 **⚽ Prépa Tutoriel Roll-a-ball Unity** : 🔴 LIEN DE CODE À REMPLIR  
@@ -53,10 +53,11 @@ Sources : https://github.com/search?q=flocking-simulation+language%3AJavaScript&
 
 ## 📑 Feuille-synthèse
 
-### Éléments importants notés
+### Éléments pertinents
 - [ ] Concepts clés des Boids
-- [ ] Spécificités Unity pour l'IA
 - [ ] Algorithmes de gradient descent et simulated annealing
+- [ ] Spécificités Unity pour l'IA
+
 
 
 *Dernière mise à jour : [Date] par [Nom de l'étudiant]*
