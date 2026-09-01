@@ -10,9 +10,9 @@
 ### ⛰️ Skieur et montagne
 
 **🔗 Template de départ** : https://editor.p5js.org/nadineducegep/sketches/E8bEEgaLZ  
-📁 **Version COMPLETE ** : Recherche systématique de tout : 🔴 LIEN À REMPLIR  
-📁 **Version VOISIN ** : Recherche qui vérifie les voisins : 🔴 LIEN À REMPLIR  
-📁 **Version HASARD ** : Recherche avec hasard et refroidissement (simulated annealing) : 🔴 LIEN À REMPLIR  
+📁 **Version COMPLÈTE** : Recherche systématique de tout : 🔴 LIEN À REMPLIR  
+📁 **Version VOISIN** : Recherche qui vérifie les voisins : 🔴 LIEN À REMPLIR  
+📁 **Version HASARD** : Recherche avec hasard et refroidissement (simulated annealing) : 🔴 LIEN À REMPLIR  
 
 ### 💬 Rappel des explications
 | Version | Description |
@@ -25,15 +25,16 @@
 
 ## 🐦 Labo Boid (5% - Remise 10 septembre)
 
-### 🦠 Partie Prépa Flock
-Sources : https://docs.google.com/presentation/d/1ipU-tH2uaze7Qrng_xWZh42o5nZNnJee79PZyeWuRMQ  
+### 🦠 Partie 1 : Code Boid (Les 3 règles)
+**🔗 Code Boid starter** : https://editor.p5js.org/nadineducegep/sketches/BvBQxERSC
+📁 **Mon implémentation (Alignement, Cohésion, Séparation)** : 🔴 LIEN À REMPLIR
+
+### 🕊️ Partie 2 : Prépa Flock (Déconstruction & Tutoriel)
+> **Rappel de la mission :** Vous devez déconstruire une simulation de flocking et la renommer & commenter pour en faire un **tutoriel compréhensible pour un débutant** qui clarifie les 3 gradients **(Alignement, Cohésion, Séparation)**.
+
 Sources : https://github.com/search?q=flocking-simulation+language%3AJavaScript&type=repositories&l=JavaScript  
 **⚙️ Choix de source** :  🔴 LIEN À REMPLIR  
-**📁 Ma solution renommée** : 🔴 LIEN À REMPLIR   
-
-### 🕊️ Partie Boid p5.JS
-**⚙️ Code Boid starter** : https://editor.p5js.org/nadineducegep/sketches/BvBQxERSC  
-**📁 Mon Projet Boid p5.JS** : 🔴 LIEN À REMPLIR  
+📁 **Lien vers mon code / tutoriel** : 🔴 LIEN À REMPLIR
 
 ---
 
